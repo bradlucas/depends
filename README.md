@@ -8,7 +8,7 @@ If you work on a number of Clojure projects you may at some time want to make su
 
 ## Usage
 
-lein run WORK_DIR
+- java -jar target/depends-1.0.0-standalone.jar DIRECTORY
 
 ## License
 

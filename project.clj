@@ -1,4 +1,4 @@
-(defproject depends "0.1.0-SNAPSHOT"
+(defproject depends "1.0.0"
   :description "Walks a directory structure, parses project.clj files for dependencies and produces a report"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
